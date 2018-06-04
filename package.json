@@ -61,10 +61,12 @@
     }
   },
   "dependencies": {
+    "bootstrap": "^3.3.7",
     "can-component": "^4.0.2",
     "can-define": "^2.0.1",
     "can-stache": "^4.1.0",
     "can-view-autorender": "^4.0.0",
+    "can-view-import": "^4.0.2",
     "cssify": "^0.6.0",
     "steal-less": "^1.2.2",
     "steal-stache": "^4.0.1"

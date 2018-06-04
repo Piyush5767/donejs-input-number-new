@@ -1,5 +1,11 @@
-@page donejs-input-number-new
+@parent donejs-input-number-new
+@module {can.Component} donejs-input-number-new <donejs-input-number-new>
 
-# donejs-input-number-new
+A short description of the donejs-input-number-new component
 
-A number input field in donejs using Bootstrap
+@signature `<donejs-input-number-new>`
+
+@body
+
+## Use
+
